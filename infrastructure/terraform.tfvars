@@ -1,0 +1,5 @@
+aws_profile       = "trabpraticopuc"
+aws_region        = "us-east-1"
+prefix            = "web"
+aws_instance_type = "t2.micro"
+aws_public_key    = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDBX3nnMzgfQmRmf3q7t/cDfBRwPmhoFuZb2gpI3KWz0AV8RMSpaHuOeozuxNXpjAO+2FURWEXWe3FcgOOLC1hsavxhWxg3Qwdqoys4RgCYJgwDhrHZCIRNuImUM+KDDWkDr6wS1V2Adlj1jRV+gLH/L5Z9j2Mf/SHVcjSLUJuX14MtJLuoGnAgSordRlkFD6e8c4sGwJeDO/yAAGOl0Gun7flJLA3QWZSndQooDfNhjU77Pf780hJ4cjz7PgUndNO/j87tVDB8X5j4isNFou4c47fzWYBRqHSo4cw/ModBAoutptjPHqMEJ+duY+58d+eZiwj3KcccsM5kELhkP3DsqU40BAIn/Y6yBBBxP0P6BKdVT/2IgWlx9gLMU6YUM2kd/4FAioTbv115OY8AS+FR45wnY70lAJ8Vxl6jWnNEzeFQdEalJ1vbj7yjnsJn61mAw1wm+SbeNzOXsiuFYDeMr9ZBNuDPJZl+PcQZoCv58AbftWtzrDUKUkrhdHM99E= jair@DESKTOP-KTS6HDI"
