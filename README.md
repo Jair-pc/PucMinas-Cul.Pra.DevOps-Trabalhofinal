@@ -2,7 +2,6 @@
 
 # USO DO TERRAFORM NA AWS
 
-#  Dupla Jair Pereira e Lorena Diana
 
 ## Trabalho 
 Este trabalho tem como objetivo exercitar os seguintes conceitos: 
