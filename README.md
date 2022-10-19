@@ -2,8 +2,12 @@
 
 # Trabalho Prático - Cultura e Práticas Devops
 
-# USO DO TERRAFORM NA AWS
+## Professor Westerley Da Silva Reis
 
+
+
+
+# USO DO TERRAFORM NA AWS
 
 ## Trabalho 
 Este trabalho tem como objetivo exercitar os seguintes conceitos: 
