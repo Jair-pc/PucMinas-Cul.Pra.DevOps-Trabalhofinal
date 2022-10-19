@@ -2,7 +2,7 @@
 
 # Trabalho Prático - Cultura e Práticas Devops
 
-## Professor Westerley Da Silva Reis
+## Professor Westerley da Silva Reis
 
 
 
